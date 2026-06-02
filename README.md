@@ -1,9 +1,6 @@
-# my-first-repo
-
-# My First Repository
-A beginner GitHub project
-created during the workshop.
-
-## About Me
-My name is **Hasira**.
-I am learning GitHub.
+## What I Learned Today 
+ 
+I am currently attending a GitHub workshop. 
+Today I learned about: - Version control - Creating a repository - The edit-commit-push cycle 
+ 
+My GitHub profile: https://github.com/hasira09
